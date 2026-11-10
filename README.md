@@ -4,6 +4,8 @@
 
 Built as a teaching platform for real-time control: understand the actuator bus at the packet level, then drive the arm from a browser.
 
+> This repository is the original **4-DOF** version. The platform was later adapted to **6-DOF with computer vision** for autonomous object delivery.
+
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Protocol](https://img.shields.io/badge/Dynamixel-Protocol%201.0-blue)
 ![Bus](https://img.shields.io/badge/bus-1%20Mbps%20half--duplex-orange)
