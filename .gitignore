@@ -1,6 +1,14 @@
-
 # Python
 .venv/
+venv/
 __pycache__/
+*.pyc
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# OS / misc
 .DS_Store
 ui_ux_webapp.zip
