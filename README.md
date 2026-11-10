@@ -106,7 +106,7 @@ npm run dev
 - [ ] SYNC WRITE in the API for smooth multi-joint motion
 - [ ] WebSocket / SSE stream to replace polling
 - [ ] Ziegler–Nichols auto-tuning and live data logging (PID, bang-bang, cascade comparisons)
-- [ ] ROS 2 integration for kinematics and computer vision ([`roboctrl_ws`](https://github.com/LordSnakeZ/roboctrl_ws))
+- [ ] ROS 2 integration for kinematics and computer vision ([`roboctrl_ws`](https://github.com/sssphilognosis/roboctrl_ws))
 - [ ] Demo video and photos of the assembled arm
 
 ## Repository layout
@@ -122,6 +122,6 @@ backups/                Zipped copies of the Arduino libraries
 ## Author
 
 **Santiago S. Sánchez** — Mechatronics Engineer (UNAM) · AI Engineer
-[LinkedIn](https://www.linkedin.com/in/san-sanchez/) · [GitHub](https://github.com/LordSnakeZ)
+[LinkedIn](https://www.linkedin.com/in/san-sanchez/) · [GitHub](https://github.com/sssphilognosis)
 
 Released under the [MIT License](LICENSE).
